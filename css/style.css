@@ -1,0 +1,27 @@
+.control-panel{
+    background: lightgray;
+    text-align: right;
+    padding: 4px;
+    font-family: sans-serif;
+}
+
+.languages{
+    background: white;
+    border: 1px solid gray;
+}
+
+.editor{
+    height: 70vh;
+    font-size:0.9rem;
+}
+
+.button-container{
+    text-align: right;
+    padding: 4px;
+}
+
+.output{
+    padding: 4px;
+    height: 200px;
+    resize: none;
+}
